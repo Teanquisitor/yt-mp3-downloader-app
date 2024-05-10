@@ -7,7 +7,7 @@ This project provides a user-friendly tool for downloading and converting online
 - User-friendly interface for easy navigation.
 
 **Disclaimer:**
-This software is intended for downloading and converting videos from websites that explicitly permit such activity.
+This software is intended for downloading and converting videos from websites that explicitly permit such activity. Also, it was made for fun and personal use.
 
 ## DEPENDENCIES
 - Python versions 3.8+
